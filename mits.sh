@@ -14,6 +14,7 @@ echo -e "\033[31m| |\/| | | |  | |  \___ \   \e[0m  ";
 echo -e "\033[31m| |  | | | |  | |   __) |   \e[0m  ";
 echo -e "\033[31m| |  | ||___| | |  |___/    \e[0m  ";
 
+printf "\e[1;77m Monotonous Information Transfer System \e[0m \n"
 printf "\e[1;77m All at your own risk \e[0m \n"
 printf "\e[1;77m Strictly for Entertainment Purpose\e[0m \n"
 
