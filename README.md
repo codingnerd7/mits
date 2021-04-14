@@ -1,6 +1,6 @@
 <h1>mits</h1>
                                                    
-<p>Using WishFish tool you can generat different phishing links of wishing or custom sites which can grab victim front camera pictures and also gives you lockup information of target ip address.
+<p>Using mits tool you can generat different phishing links of wishing or custom sites which can grab victim front camera pictures and also gives you lockup information of target ip address.
 <p1>
 
 <h3>Installation</h3>
@@ -34,7 +34,7 @@ $ chmod +x copy.sh
 $ ./copy.sh
 ```
 
-This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.
+This information is only for educational purpose and we are not responsible for any kind of illegal activity done by this tool.
 
 
                                             Inspired By github.com/thelinuxchoice
